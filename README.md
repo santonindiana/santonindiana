@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @santonindiana
+- 👀 I’m interested in leaning web development.
+- 🌱 I’m currently learning html css javascript java
+- 💞️ I’m looking to collaborate on practice project based learning.
+- 📫 How to reach me : santonindiana@gmail.com
